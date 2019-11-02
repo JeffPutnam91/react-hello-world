@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JeffPutnam91/react-hello-world/issues"
   },
-  "homepage": "https://github.com/JeffPutnam91/react-hello-world#readme"
+  "homepage": "https://github.com/JeffPutnam91/react-hello-world#readme",
+  "dependencies": {
+    "react-dom": "^16.11.0"
+  }
 }
