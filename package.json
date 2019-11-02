@@ -1,0 +1,19 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffPutnam91/react-hello-world.git"
+  },
+  "author": "Jeffrey Putnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffPutnam91/react-hello-world/issues"
+  },
+  "homepage": "https://github.com/JeffPutnam91/react-hello-world#readme"
+}
